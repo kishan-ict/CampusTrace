@@ -1,0 +1,24 @@
+# CampusTrace (https://campustrace.pages.dev)
+# LLM Information & Knowledge Context
+
+> CampusTrace is an intelligent, zero-cost campus lost-and-found recovery network for students, campus safety officers, and staff.
+
+## Core Capabilities & Architecture
+
+- **Platform:** Progressive Web App (PWA) built with React 19, Vite, and Cloudflare Pages.
+- **AI Engine:** Google Gemini AI Auto-Tagging for automatic recognition of item categories, colors, descriptions, and tags.
+- **Similarity Match Radar:** Real-time semantic and attribute matcher connecting lost reports with corresponding found items.
+- **Zero-Cost $0 Database:** Uses Firebase Cloud Firestore with client-side image compression, eliminating cloud storage fees.
+- **Anti-Fraud Security:** Finders specify secret verification questions; claimants must answer correctly to receive approval.
+- **2-Day Single-Use QR Handover Passes:** Finder generates the QR upon claim approval; receiver scans it or reveals a 6-digit code to conclude handover.
+- **Hero Points & Gamification:** Successful returners earn +100 Hero Points and unlock campus badges (First Return Hero, Honesty Guardian, Campus Legend).
+- **Girl Student Privacy Shield:** Protects female students from sharing phone numbers; direct in-app chat coordinates safe handovers.
+- **Dispute Center:** If an item is mistakenly claimed, students can dispute with 1 click, alerting Campus Safety & Student Affairs Moderators.
+- **Admin Center:** Campus administrators can provision or revoke moderator credentials.
+
+## Public URLs
+
+- Main Application: https://campustrace.pages.dev/
+- Moderator Center: https://campustrace.pages.dev/moderator
+- Admin Center: https://campustrace.pages.dev/admin
+- GitHub Source: https://github.com/kishan-ict/CampusTrace

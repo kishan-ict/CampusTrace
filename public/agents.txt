@@ -1,0 +1,19 @@
+# Agent Protocol for CampusTrace
+# https://campustrace.pages.dev
+
+Agent: *
+Allow: /
+
+# Agent Description
+Name: CampusTrace
+Description: Smart Campus Lost & Found recovery platform powered by AI auto-tagging, anti-fraud secret questions, and verified QR handovers.
+Website: https://campustrace.pages.dev
+Repository: https://github.com/kishan-ict/CampusTrace
+Sitemap: https://campustrace.pages.dev/sitemap.xml
+LLM-Context: https://campustrace.pages.dev/llms.txt
+
+# Permissions
+Allow-Search: true
+Allow-Index: true
+Allow-Training: true
+Allow-Inference: true

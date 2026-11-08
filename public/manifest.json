@@ -1,0 +1,17 @@
+{
+  "name": "CampusTrace",
+  "short_name": "CampusTrace",
+  "description": "Smart Campus Lost & Found System with AI Match Radar & Anti-Fraud Handover Verification",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

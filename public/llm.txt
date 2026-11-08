@@ -1,24 +1,20 @@
 # CampusTrace (https://campustrace.pages.dev)
-# LLM Information & Knowledge Context
+# Online Lost and Found System | Kishan Project | Kishan Work | New Project Trending
 
-> CampusTrace is an intelligent, zero-cost campus lost-and-found recovery network for students, campus safety officers, and staff.
+> **CampusTrace** is an online lost and found system and campus recovery network designed and developed as a **kishan project** (**kishan work**), featured as a **new project trending** for smart campus ecosystems.
 
-## Core Capabilities & Architecture
+## SEO & Project Keywords
+- campus
+- lost and found
+- online lost and found system
+- lost and found system
+- kishan work
+- kishan project
+- new project trending
 
-- **Platform:** Progressive Web App (PWA) built with React 19, Vite, and Cloudflare Pages.
-- **AI Engine:** Google Gemini AI Auto-Tagging for automatic recognition of item categories, colors, descriptions, and tags.
-- **Similarity Match Radar:** Real-time semantic and attribute matcher connecting lost reports with corresponding found items.
-- **Zero-Cost $0 Database:** Uses Firebase Cloud Firestore with client-side image compression, eliminating cloud storage fees.
-- **Anti-Fraud Security:** Finders specify secret verification questions; claimants must answer correctly to receive approval.
-- **2-Day Single-Use QR Handover Passes:** Finder generates the QR upon claim approval; receiver scans it or reveals a 6-digit code to conclude handover.
-- **Hero Points & Gamification:** Successful returners earn +100 Hero Points and unlock campus badges (First Return Hero, Honesty Guardian, Campus Legend).
-- **Girl Student Privacy Shield:** Protects female students from sharing phone numbers; direct in-app chat coordinates safe handovers.
-- **Dispute Center:** If an item is mistakenly claimed, students can dispute with 1 click, alerting Campus Safety & Student Affairs Moderators.
-- **Admin Center:** Campus administrators can provision or revoke moderator credentials.
+## Overview
+CampusTrace solves campus item loss using Google Gemini AI vision auto-tagging, anti-fraud secret questions, and 2-day single-use QR handover passes. It provides zero-cost image storage, moderator case files, and a girl student privacy shield.
 
-## Public URLs
-
-- Main Application: https://campustrace.pages.dev/
-- Moderator Center: https://campustrace.pages.dev/moderator
-- Admin Center: https://campustrace.pages.dev/admin
-- GitHub Source: https://github.com/kishan-ict/CampusTrace
+- Author: Kishan
+- Website: https://campustrace.pages.dev/
+- GitHub: https://github.com/kishan-ict/CampusTrace
